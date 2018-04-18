@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61906" started-at="2018-04-18T11:39:09Z" finished-at="2018-04-18T11:40:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61906" started-at="2018-04-18T11:39:09Z" finished-at="2018-04-18T11:40:11Z">
+      <class name="DDT.NaukriUpdate">
+        <test-method status="PASS" signature="t1()[pri:0, instance:DDT.NaukriUpdate@6767c1fc]" name="t1" duration-ms="61856" started-at="2018-04-18T17:09:09Z" finished-at="2018-04-18T17:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+      </class> <!-- DDT.NaukriUpdate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
