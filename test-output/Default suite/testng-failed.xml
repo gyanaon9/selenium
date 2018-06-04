@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="SeleniumDEMO.Assertion">
+      <class name="ZPratice.cr">
         <methods>
-          <include name="verifyInvalidMsg"/>
+          <include name="Mytest"/>
         </methods>
-      </class> <!-- SeleniumDEMO.Assertion -->
+      </class> <!-- ZPratice.cr -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

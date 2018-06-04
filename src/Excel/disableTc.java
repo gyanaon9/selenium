@@ -1,4 +1,5 @@
 package Excel;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class disableTc {
@@ -14,6 +15,12 @@ public class disableTc {
     public void createUserTest()
     {
     	System.out.println("New");
+    }
+    	@Test
+        public void falseTest()
+        {
+    		Assert.assertTrue(false);
+        	System.out.println("False");
 }
 @Test
 public void modifyUserTest()

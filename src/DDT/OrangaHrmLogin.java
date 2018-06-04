@@ -1,5 +1,4 @@
 package DDT;
-	
 	import java.util.concurrent.TimeUnit;
 
 	import org.openqa.selenium.By;
@@ -10,7 +9,6 @@ package DDT;
 
 	public class OrangaHrmLogin {
 		
-	
 	    @Test(dataProvider="OrangeHrmData")
 		public void m(String username, String password) throws Throwable 
 	 {

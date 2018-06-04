@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="61906" started-at="2018-04-18T11:39:09Z" finished-at="2018-04-18T11:40:11Z">
+  <suite name="Default suite" duration-ms="43897" started-at="2018-06-02T06:25:20Z" finished-at="2018-06-02T06:26:04Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="61906" started-at="2018-04-18T11:39:09Z" finished-at="2018-04-18T11:40:11Z">
+    <test name="Default test" duration-ms="43897" started-at="2018-06-02T06:25:20Z" finished-at="2018-06-02T06:26:04Z">
       <class name="DDT.NaukriUpdate">
-        <test-method status="PASS" signature="t1()[pri:0, instance:DDT.NaukriUpdate@6767c1fc]" name="t1" duration-ms="61856" started-at="2018-04-18T17:09:09Z" finished-at="2018-04-18T17:10:11Z">
+        <test-method status="PASS" signature="t1()[pri:0, instance:DDT.NaukriUpdate@47c62251]" name="t1" duration-ms="43863" started-at="2018-06-02T11:55:20Z" finished-at="2018-06-02T11:56:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t1 -->
